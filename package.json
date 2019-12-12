@@ -1,0 +1,17 @@
+{
+  "name": "cleaning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/main.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.12.6",
+    "request": "^2.88.0",
+    "typescript": "^3.7.2"
+  }
+}

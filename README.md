@@ -22,6 +22,6 @@ tweet-cleaning-bot is to lottery todo and tweet to mattermost.
 
 ## Run
 
-    ```
-    $ npm start
-    ```
+  ```
+  $ npm start
+  ```
